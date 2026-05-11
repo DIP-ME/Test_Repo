@@ -2,9 +2,9 @@
 
 <img src="./assets/profile.gif" width="100%" alt="Animated network background banner"/>
 
-# Adam Alston
+# Dipanjan Chatterjee
 
-### Software Engineer
+### Lead Test Engineer
 
 <p>
   Building scalable systems, crafting thoughtful developer experiences, and turning ideas into production-ready software.
